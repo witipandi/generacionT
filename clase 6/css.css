@@ -1,0 +1,16 @@
+#soyundiv{
+    position: relative;
+    border: 2px solid;
+    padding: 1%;
+    margin-bottom: 20px;
+}
+#nosoyundiv{
+    position: sticky;/*para que el contenidosiga en la pantalla mientras se scrolee */
+    top: 40px;
+    left: 40px;
+    border: 5px solid;
+    border-top: solid 5px red;
+    border-right:solid 5px blue ;
+    border-bottom: dotted 5px yellowgreen;
+    border-left:dashed 5px pink ;
+}
